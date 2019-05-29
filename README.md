@@ -59,3 +59,9 @@ http://127.0.0.1:5001/slider/get_gap_center_point?bg=img%2Fbg.png&slider=img%2Fs
 |data|返回的数据体|
 |center_point|缺口滑块的中心点 [x,y]|
 |msg|对返回码的文本描述内容|
+
+技术交流
+----
+若大家有什么疑问或指教，可加qq群，一起讨论问题。请备注`滑块`
+
+<img src='https://i.imgur.com/5FM26rc.png' align = 'center' width = "250" style = "margin-top:20px">
